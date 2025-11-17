@@ -3,25 +3,15 @@
 
 ### Steps <br>
 <ol>
-  <li>
-    Fork the repository to your GitHub Account.
-  </li>
-  <li>
-    Clone the forked repository to your local device.
-  </li>
-  <li>
-    Solve the given statements.
-  </li>
-  <li>
-    Add, commit and push the code to your github account.
-  </li>
-  <li>
-    Create a pull request to submit the solution.
-  </li>
-  <li>
-    Wait till your request gets accepted and Vola! Week 1 is completed.
-  </li>
+  <li>Fork the repository to your GitHub account.</li>
+  <li>Clone the forked repository to your local machine.</li>
+  <li>Create your own branch using your name (example: <code> your-name </code>).</li>
+  <li>Create a new folder inside the project with your name.</li>
+  <li>Add a file inside your folder (example: <code>test.c </code>) with some basic details.</li>
+  <li>Add, commit, and push your changes to your branch.</li>
+  <li>Create a Pull Request from your branch to the main repository.</li>
+  <li>Wait for your PR to get merged — and you're done!</li>
 </ol>
-<br>
+
 
 ### In case of any queries, please mail us at: sci-mat@bmu.edu.in
